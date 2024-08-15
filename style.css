@@ -1,0 +1,18 @@
+div{
+    display: flex;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: darkgoldenrod;
+}
+.cor{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(15, 122, 216);
+}
